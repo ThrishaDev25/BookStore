@@ -1,4 +1,4 @@
-Online Bookstore Project
+<h1>Online Bookstore Project</h1>
 
 Welcome to the Online Bookstore Project. This is a simple web application for browsing and purchasing books online.
 

@@ -58,7 +58,7 @@ Welcome to the Online Bookstore Project. This is a simple web application for br
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
+## Contact
 
 - If you have any questions or suggestions, feel free to contact us at [thrishadev25@gmail.com].
 

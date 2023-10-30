@@ -1,4 +1,4 @@
-<div align="center"><h1>Online Bookstore Project</h1></div>
+Online Bookstore Project
 
 Welcome to the Online Bookstore Project. This is a simple web application for browsing and purchasing books online.
 
@@ -13,11 +13,11 @@ Welcome to the Online Bookstore Project. This is a simple web application for br
 - [**Contributing**](#contributing)
 - [**License**](#license)
 
-<div align="center"><h2>Project Overview</h2></div>
+## Project Overview
 
 - A basic online bookstore where users can browse books, add them to their cart, and place orders.
 
-<div align="center"><h2>Features</h2></div>
+## Features
 
 - Browse a catalog of books with details like title, author, and price.
 - Search for books by title or author.
@@ -25,7 +25,7 @@ Welcome to the Online Bookstore Project. This is a simple web application for br
 - Review and manage items in the shopping cart.
 - Place orders and make payments (integration with a payment gateway required).
 
-<div align="center"><h2>Technologies Used</h2></div>
+## Technologies Used
 
 - Front-end: HTML, CSS, JavaScript
 - Back-end: [Java Spring Boot](https://spring.io/projects/spring-boot)

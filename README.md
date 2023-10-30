@@ -1,23 +1,23 @@
-# Online Bookstore Project
+<div align="center"><h1>Online Bookstore Project</h1></div>
 
 Welcome to the Online Bookstore Project. This is a simple web application for browsing and purchasing books online.
 
 ## Table of Contents
-- [ Project Overview](#Project Overview)
-- [Features](#features)
-- [ Technologies Used](#Technology Used)
-  - [Project Structure](#prerequisites)
+
+- [**Project Overview**](#project-overview)
+- [**Features**](#features)
+- [**Technologies Used**](#technologies-used)
+  - [Project Structure](#project-structure)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [**Usage**](#usage)
+- [**Contributing**](#contributing)
+- [**License**](#license)
 
-
-## Project Overview
+<div align="center"><h2>Project Overview</h2></div>
 
 - A basic online bookstore where users can browse books, add them to their cart, and place orders.
 
-## Features
+<div align="center"><h2>Features</h2></div>
 
 - Browse a catalog of books with details like title, author, and price.
 - Search for books by title or author.
@@ -25,14 +25,14 @@ Welcome to the Online Bookstore Project. This is a simple web application for br
 - Review and manage items in the shopping cart.
 - Place orders and make payments (integration with a payment gateway required).
 
-## Technologies Used
+<div align="center"><h2>Technologies Used</h2></div>
 
 - Front-end: HTML, CSS, JavaScript
 - Back-end: [Java Spring Boot](https://spring.io/projects/spring-boot)
 - Database: MySQL (or your preferred database)
 - Payment Gateway: [Your chosen payment gateway]
 
-## Project Structure
+### Project Structure
 
 - `/backend`: Contains the Java Spring Boot application for the server.
 - `/frontend`: Placeholder for the front-end code (e.g., React, Angular, or Vue.js).

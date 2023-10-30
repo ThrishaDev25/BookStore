@@ -60,4 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Mention any libraries, frameworks, or resources you used or were inspired by in your project.
+- If you have any questions or suggestions, feel free to contact us at [thrishadev25@gmail.com].
+
+

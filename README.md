@@ -2,6 +2,17 @@
 
 Welcome to the Online Bookstore Project. This is a simple web application for browsing and purchasing books online.
 
+## Table of Contents
+- [ Project Overview]
+- [Features](#features)
+- [ Technologies Used]
+  - [Project Structure](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+
 ## Project Overview
 
 - A basic online bookstore where users can browse books, add them to their cart, and place orders.
@@ -27,7 +38,7 @@ Welcome to the Online Bookstore Project. This is a simple web application for br
 - `/frontend`: Placeholder for the front-end code (e.g., React, Angular, or Vue.js).
 - `/database`: Database schema and data setup scripts.
 
-## Getting Started
+## Installation
 
 1. Clone the repository to your local machine.
 2. Set up and run the backend Spring Boot application.
@@ -35,11 +46,11 @@ Welcome to the Online Bookstore Project. This is a simple web application for br
 4. Implement the front-end with your preferred framework.
 5. Configure the payment gateway for processing payments.
 
-## How to Run
+## Usage
 
 - Detailed instructions for running both the front-end and back-end components should be provided here.
 
-## Contribution
+## Contributing
 
 - If you'd like to contribute to this project, please [fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and create a pull request.
 

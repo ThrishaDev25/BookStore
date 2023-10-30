@@ -3,9 +3,9 @@
 Welcome to the Online Bookstore Project. This is a simple web application for browsing and purchasing books online.
 
 ## Table of Contents
-- [ Project Overview]
+- [ Project Overview](#Project Overview)
 - [Features](#features)
-- [ Technologies Used]
+- [ Technologies Used](#Technology Used)
   - [Project Structure](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
